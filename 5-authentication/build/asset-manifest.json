@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/1-react-auth-supabase/static/css/main.a40c3d5f.css",
+    "main.js": "/1-react-auth-supabase/static/js/main.614c98a2.js",
+    "index.html": "/1-react-auth-supabase/index.html",
+    "main.a40c3d5f.css.map": "/1-react-auth-supabase/static/css/main.a40c3d5f.css.map",
+    "main.614c98a2.js.map": "/1-react-auth-supabase/static/js/main.614c98a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a40c3d5f.css",
+    "static/js/main.614c98a2.js"
+  ]
+}
